@@ -1,0 +1,25 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+}
+
+h1 {
+  font-size: 30px;
+  font: large;
+}
+h3 {
+  color: rgba(117, 117, 117, 1);
+  font-size: 25px;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+}
+img {
+  width: 500px;
+  margin: 0 auto;
+}
+p .corpo {
+  width: 300px;
+  margin: 100px, 50px, 10px, 20px;
+}
